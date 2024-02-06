@@ -110,7 +110,7 @@ let Slider = ({slides}) => {
 
 - [ReactJs Guru](https://reactjsguru.com/how-to-make-image-slider-in-react/) - This article helped me to create Slider in ReactJs.
 
-- [Mediumn](https://medium.com/@badreddine.boudaoud21/create-a-react-app-with-vite-and-deploy-it-on-github-48b82e19f821) - This article 
+- [Medium](https://medium.com/@badreddine.boudaoud21/create-a-react-app-with-vite-and-deploy-it-on-github-48b82e19f821) - This article 
 helpled me to deploy react app with vite on Github Pages.
 
 ## Author
